@@ -24,7 +24,7 @@
 
 > Детализация задачи:
 
-1. Отрисовать на подстранице с помощью плагина draw.io в BPMN процесс TO BE
+1. [Отрисовать на подстранице с помощью плагина draw.io в BPMN процесс TO BE](https://github.com/kittenejjo/internshipIBS/blob/main/Счастье_рекрутера/bpmn.drawio.png)
 2. Сформировать state machine диаграмму
 3. Сформировать ролевые модели
 4. Сформировать activity-диаграмму
