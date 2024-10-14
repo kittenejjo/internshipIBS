@@ -37,7 +37,7 @@
    - [Концептуальный уровень модели данных](https://github.com/kittenejjo/internshipIBS/blob/main/Счастье_рекрутера/kon.drawio.png)
    - [Логический уровень](https://github.com/kittenejjo/internshipIBS/blob/main/Счастье_рекрутера/3log.drawio.png)
    - [Физический уровень](https://github.com/kittenejjo/internshipIBS/blob/main/Счастье_рекрутера/fiz.drawio%20(1).png)
-3. Создать на основе спроектированной схемы БД и наполнить ее тестовыми данными (по 5-6 записей в каждой таблице).
+3. Создать на основе спроектированной схемы [БД и наполнить ее тестовыми данными](https://github.com/kittenejjo/internshipIBS/blob/main/Счастье_рекрутера/data.sql) (по 5-6 записей в каждой таблице).
 4. Сделать к ней скрипт с рядом запросов, которые будут отрабатывать при работе пользователя с GUI.
 
 Итоговые артефакты:
