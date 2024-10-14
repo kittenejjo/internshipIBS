@@ -25,8 +25,8 @@
 > Детализация задачи:
 
 1. [Отрисовать на подстранице с помощью плагина draw.io в BPMN процесс TO BE](https://github.com/kittenejjo/internshipIBS/blob/main/Счастье_рекрутера/bpmn.drawio.png)
-2. Сформировать state machine диаграмму
-3. Сформировать ролевые модели
-4. Сформировать activity-диаграмму
+2. [Сформировать state machine диаграмму](https://github.com/kittenejjo/internshipIBS/blob/main/Счастье_рекрутера/state.drawio.png)
+3. [Сформировать ролевые модели](https://github.com/kittenejjo/internshipIBS/blob/main/Счастье_рекрутера/Ролевая%20модель.drawio.png)
+4. [Сформировать activity-диаграмму](https://github.com/kittenejjo/internshipIBS/blob/main/Счастье_рекрутера/Диаграмма%20без%20названия.drawio.png)
    
 Итоговый артефакт: разделы упрощенного технического проекта Системы (UseCases;BPMN схемы)
